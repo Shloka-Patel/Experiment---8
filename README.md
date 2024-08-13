@@ -299,10 +299,11 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8E.png) 
 
 (F) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8F.png) 
 
 
 ### Conclusion 
+I learnt about the various operations performed on matrices and how we can do the same in C++ using two-dimensional arrays. 
 
 
 
