@@ -11,6 +11,8 @@ A data structure that is used to store colection of the itmas of same data type 
 An array can be multidimensional also. <br> 
 A multidimensional array is an array with more than one dimension. It is the homogeneous collection of items where each element is accessed using multiple indices. <br> 
 
+A two-dimensional array in C++ is a collection of elements organized in rows and columns. 
+
 ### Code 
 
 (A) <br> 
