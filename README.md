@@ -13,7 +13,7 @@ A multidimensional array is an array with more than one dimension. It is the hom
 
 A two-dimensional array in C++ is a collection of elements organized in rows and columns. <br> 
 It can be visualised as a matrix, table or grid. Its each element can be accessed using two indices: one for the rows and the other for the columns.  <br>  
-Like a one-dimensional array, two-dimensional array indices also range from 0 to n-1 for both rows and columns. <br> 
+Like a one-dimensional array, two-dimensional array indices also range from 0 to n-1 for both rows and columns. <br>        
 
 ### Code 
 
