@@ -248,10 +248,10 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8B.png) 
 
 (C) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png) 
 
 (D) <br> 
-![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png) 
+![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8D%20.png) 
 
 (E) <br> 
 ![]() 
