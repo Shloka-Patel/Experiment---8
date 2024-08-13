@@ -149,7 +149,7 @@ int main() {
 ![]() 
 
 (D) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png) 
 
 (E) <br> 
 ![]() 
