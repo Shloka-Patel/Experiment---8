@@ -188,6 +188,10 @@ int main()
 
 (E) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 8(E)                       
+
 // Multiplication of two matrices. 
 
 #include<iostream> 
