@@ -21,7 +21,7 @@ Like a one-dimensional array, two-dimensional array indices also range from 0 to
 ```
 // NAME - SHLOKA PATEL 
 // PRN - 23070123120 
-// EXPERIMENT - 8 
+// EXPERIMENT - 8(A)      
 
 #include<iostream> 
 using namespace std; 
@@ -48,6 +48,10 @@ int main()
 
 (B) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 8(B)  
+
 #include <iostream>
 using namespace std;
 
