@@ -265,8 +265,6 @@ int main()
 
 (F) <br> 
 ```
-// To find the transpose of a matrix. 
-
 #include<iostream> 
 using namespace std;      
 
