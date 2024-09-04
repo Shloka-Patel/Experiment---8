@@ -149,6 +149,12 @@ int main() {
 
 (D) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 8(D)  
+
+// Program to get the sum of the diagonal elements. 
+
 #include <iostream>
 using namespace std;
 
