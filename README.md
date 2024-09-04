@@ -265,6 +265,12 @@ int main()
 
 (F) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 8F      
+
+// To find the transpose of a matrix. 
+
 #include<iostream> 
 using namespace std;      
 
